@@ -35,6 +35,8 @@ int main()
     printf("Addition of %d,%d,%d is : %d \n", a,b,c, (a/b/c));
 
     printf("Addition of %d,%d,%d is : %d", a,b,c, (a/b+c));
+	
+	printf("Addition of %d,%d,%d is : %d", a,b,c, (a/b-c));
 
 
     return 0;
